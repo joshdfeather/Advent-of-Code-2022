@@ -1,4 +1,3 @@
-The above files contain both my solutions, input files, any test files and an active working area (currently containing Day 18)
 
 ## Active solution run through:
 
